@@ -3,25 +3,7 @@
         <div class="site-footer__social-links">
             <ul class="list-inline mb-2">
                 {% if site.social.github.user and site.social.github.repo %}
-                    <li class="list-inline-item">
-                        <iframe
-                            class="github-btn"
-                            src="https://ghbtns.com/github-btn.html?user={{ site.social.github.user }}&amp;repo={{ site.social.github.repo }}&amp;type=watch&amp;count=true"
-                            width="90"
-                            height="20"
-                            title="Star on GitHub"
-                        ></iframe>
-                    </li>
-                    <li class="list-inline-item">
-                        <iframe
-                            class="github-btn"
-                            src="https://ghbtns.com/github-btn.html?user={{ site.social.github.user }}&amp;repo={{ site.social.github.repo }}&amp;type=fork&amp;count=true"
-                            width="90"
-                            height="20"
-                            title="Fork on GitHub"
-                        ></iframe>
-                    </li>
-                {% endif %}
+                                   {% endif %}
                 {% if site.social.twitter.enabled %}
                     <li class="list-inline-item">
                         <a

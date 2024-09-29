@@ -3,7 +3,7 @@ name: Artemis OS
 
 project:
   version: 1.0.0
-  download_url: https://github.com/Artemis-OS-Linux
+  download_url: documentation/download.html
   download_text: Download
 
 license:
