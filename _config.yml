@@ -13,12 +13,17 @@ license:
   docs: CC BY 3.0
   docs_url: https://creativecommons.org/licenses/by/3.0/
 
+
 links:
   header:
     - title: GitHub
       icon: github
       brand: true
       url: https://github.com/Artemis-OS-Linux
+    - title: Wiki
+      icon: wiki
+      brand: true
+      url: https://github.com/Artemis-OS-Linux/Artemis-OS-Support/wiki
   homepage:
     - title: View on GitHub
       icon: github
@@ -31,7 +36,7 @@ links:
       url: https://github.com/Artemis-OS-Linux
     - title: Issues
       icon: bug
-      url: https://github.com/Artemis-OS-Linux
+      url: https://github.com/Artemis-OS-Linux/Artemis-OS-Support/issues?q=is%3Aopen
 
 ui:
   mode: 'dark' # 'auto', 'dark', 'light'
@@ -59,8 +64,8 @@ ui:
 
 social:
   github:
-    user: allejo
-    repo: jekyll-docs-theme
+    user: Artemis OS
+    repo: artemis-os-linux.github.io
   twitter:
     enabled: false
     via:
