@@ -34,7 +34,7 @@ links:
       url: https://github.com/Artemis-OS-Linux
 
 ui:
-  mode: 'auto' # 'auto', 'dark', 'light'
+  mode: 'dark' # 'auto', 'dark', 'light'
   brand:
     dark: "#00ceff"
     light: "#a20000"
